@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: a4583645-89f2-404e-3d2d-43b292eece60
 resourcetype: Document
 title: mmurga_lect25.pdf
 uid: 5e2c4f4f-017d-fa3a-66a0-c8b9e44917e7
