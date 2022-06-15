@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The lecture notes section contains the lecture notes summary and corresponding
+  files.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -50,7 +52,7 @@ Course Overview, Objectives, Expectations, Logistics, Student Interests, Basic C
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Metropolitan-ization Forces, Patterns and Trends, Concerns ([PDF]({{< baseurl >}}/resources/lect2))
+Metropolitan-ization Forces, Patterns and Trends, Concerns ({{% resource_link 70a25e9b-c4ce-514e-993d-f309344ffcc9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -59,7 +61,7 @@ Metropolitan-ization Forces, Patterns and Trends, Concerns ([PDF]({{< baseurl >}
 3
 {{< tdclose >}}
 {{< tdopen >}}
-"Models" of the Metropolis ([PDF]({{< baseurl >}}/resources/lect3))
+"Models" of the Metropolis ({{% resource_link 18cc8a15-5c47-4d5d-8091-207f2766462e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -68,7 +70,7 @@ Metropolitan-ization Forces, Patterns and Trends, Concerns ([PDF]({{< baseurl >}
 4
 {{< tdclose >}}
 {{< tdopen >}}
-"Regional Architectures": Institutions of the Metropolis ([PDF]({{< baseurl >}}/resources/lect4))
+"Regional Architectures": Institutions of the Metropolis ({{% resource_link 732c2f07-7a0f-7f77-178e-942107df1c1b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -83,7 +85,7 @@ Metropolitan-ization Forces, Patterns and Trends, Concerns ([PDF]({{< baseurl >}
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Accessibility: The Land Use-Transportation Link (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.4 MB]({{< baseurl >}}/resources/lect5))
+Accessibility: The Land Use-Transportation Link ({{% resource_link 36694277-2735-bc0e-ad6b-6a21c6c0afdc "PDF - 1.4 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -92,7 +94,7 @@ Accessibility: The Land Use-Transportation Link (![This resource may not render 
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Basics of Travel Demand: Persons and Firms ([PDF]({{< baseurl >}}/resources/lect6))
+Basics of Travel Demand: Persons and Firms ({{% resource_link a1ce16b7-ecd0-c4b4-8ca9-7dd0a743b948 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -161,7 +163,7 @@ Implications for Planning Policies and Tools
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Financial Instruments ([PDF]({{< baseurl >}}/resources/lect13))
+Financial Instruments ({{% resource_link 6573c27a-949d-9065-1295-3251ef5b14b7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -267,7 +269,7 @@ Guest Speaker: Chris Porter, Cambridge Systematics, Inc.
 23
 {{< tdclose >}}
 {{< tdopen >}}
-Back to the Future? Land Use Mobility, Accessibility in Metropolitan China ([PDF]({{< baseurl >}}/resources/lect23))
+Back to the Future? Land Use Mobility, Accessibility in Metropolitan China ({{% resource_link a372fd21-684e-b5e9-8dbb-f0d7141f44bb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -276,7 +278,7 @@ Back to the Future? Land Use Mobility, Accessibility in Metropolitan China ([PDF
 24
 {{< tdclose >}}
 {{< tdopen >}}
-The Future of the Metropolis: Theoretical Speculations ([PDF]({{< baseurl >}}/resources/lect24))
+The Future of the Metropolis: Theoretical Speculations ({{% resource_link bbd1bed7-1259-c6d3-6bdc-e4bbe4b74d5f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -285,7 +287,7 @@ The Future of the Metropolis: Theoretical Speculations ([PDF]({{< baseurl >}}/re
 25
 {{< tdclose >}}
 {{< tdopen >}}
-The Future of the Metropolis: Tools and Models ([PDF - 9.1 MB]({{< baseurl >}}/resources/mmurga_lect25))  
+The Future of the Metropolis: Tools and Models ({{% resource_link 5e2c4f4f-017d-fa3a-66a0-c8b9e44917e7 "PDF - 9.1 MB" %}})  
   
 Guest Speaker: Mikel Murga
 {{< tdclose >}}
