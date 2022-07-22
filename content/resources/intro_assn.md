@@ -6,6 +6,7 @@ file: /courses/11-953-comparative-land-use-and-transportation-planning-spring-20
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: intro_assn.pdf
 uid: 017dbf5d-586b-fd33-14f2-8ed87e8f27ee
 ---
 This resource includes information on exploring the land use-transportation interaction in your neighborhood.
-

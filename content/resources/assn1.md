@@ -6,6 +6,7 @@ file: /courses/11-953-comparative-land-use-and-transportation-planning-spring-20
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: assn1.pdf
 uid: 91b40f05-5e62-7aef-8fcd-dbf4c89fe3c4
 ---
 This resource includes information on five questions based on the given topic.
-

@@ -6,6 +6,7 @@ file: /courses/11-953-comparative-land-use-and-transportation-planning-spring-20
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: mmurga_lect25.pdf
 uid: 5e2c4f4f-017d-fa3a-66a0-c8b9e44917e7
 ---
 This resource includes information on the future of the metropolis: tools and models.
-
