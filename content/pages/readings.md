@@ -69,7 +69,7 @@ Metcalf, G. "Regional Planning without Regional Government." *SPUR* (July 2004):
 Accessibility: The Land Use-Transportation Link
 {{< tdclose >}}{{< tdopen >}}
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/good-city-form) Lynch, K. "Access." Chapter 10 in [*Good City Form*](https://mitpress.mit.edu/books/good-city-form). Cambridge, MA: MIT Press, 1984, pp. 187-204. ISBN: 0262620464.
+{{% resource_link "bdb11740-493a-4f5e-94fa-78cd0160121c" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Lynch, K. "Access." Chapter 10 in {{% resource_link "bdb11740-493a-4f5e-94fa-78cd0160121c" "*Good City Form*" %}}. Cambridge, MA: MIT Press, 1984, pp. 187-204. ISBN: 0262620464.
 
 Geurs, K. T., and B. van Wee. "Accessibility Evaluation of Land-use and Transport Strategies: Review and Research Directions." *Journal of Transport Geography* 12 (2004): 127-140.
 
@@ -163,7 +163,7 @@ Walters, G., R. Ewing, and W. Schroeer. "Adjusting Computer Modeling Tools to Ca
 Financial Instruments
 {{< tdclose >}}{{< tdopen >}}
 
-Krizek, K. "Transit Supportive Home Loans: Theory, Application, and Prospects for Smart Growth." *Housing Policy Debate* 14, no. 4 (2003): 657-677. ([PDF](http://vehicleforasmallplanet.com/wp-content/uploads/2012/04/Transit-supportive-mortgages.pdf))
+Krizek, K. "Transit Supportive Home Loans: Theory, Application, and Prospects for Smart Growth." *Housing Policy Debate* 14, no. 4 (2003): 657-677. ({{% resource_link "52335dcd-854b-4e8b-83e7-172121733d1e" "PDF" %}})
 
 Blackman, A. "Testing the Rhetoric." *Regulation* 25, no. 1 (2002): 34-38.
 
@@ -171,7 +171,7 @@ Zegras, C. "Financing Transport Infrastructure in Developing Country Cities: Eva
 
 Renne, J., and P. Newman. "Facilitating the Financing and Development of Smart Growth." *Transportation Quarterly* 56, no. 2 (2002): 23-32.
 
-See also, Affordability Index ([PDF - 3.5 MB](https://www.brookings.edu/wp-content/uploads/2016/06/20060127_affindex.pdf))
+See also, Affordability Index ({{% resource_link "14f4663d-bee5-4ec5-a684-4f6f68b23f00" "PDF - 3.5 MB" %}})
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Part IV: The Influence of Transportation on Land Use**
