@@ -5,6 +5,7 @@ description: This resource includes information on wrap-up from last lecture, th
   governing systems, metropolitan dynamics, realms of relevance, challenges of different
   disciplines, practical possibilities for moving forward.
 file: /courses/11-953-comparative-land-use-and-transportation-planning-spring-2006/732c2f077a0f7f77178e942107df1c1b_lect4.pdf
+file_size: 72747
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

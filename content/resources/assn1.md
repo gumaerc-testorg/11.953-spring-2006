@@ -3,6 +3,7 @@ content_type: resource
 description: This resource includes information on five questions based on the given
   topic.
 file: /courses/11-953-comparative-land-use-and-transportation-planning-spring-2006/91b40f055e627aef8fcddbf4c89fe3c4_assn1.pdf
+file_size: 17215
 file_type: application/pdf
 learning_resource_types:
 - Assignments
