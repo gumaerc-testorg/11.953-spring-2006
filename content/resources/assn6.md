@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes information on background, tasks and recommendations/hints
   on approaching the assignment.
-file: /courses/11-953-comparative-land-use-and-transportation-planning-spring-2006/736dee2539daff504ad11eb5c47e3b19_assn6.pdf
+file: /ol-ocw-studio-app/courses/11-953-comparative-land-use-and-transportation-planning-spring-2006/736dee2539daff504ad11eb5c47e3b19_assn6.pdf
 file_size: 22359
 file_type: application/pdf
 learning_resource_types:
