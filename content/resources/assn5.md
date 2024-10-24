@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes information on basic model purpose, data, role
   of transportation, and model assumptions.
-file: /courses/11-953-comparative-land-use-and-transportation-planning-spring-2006/da3e18994b077664eecf072c32d7e30e_assn5.pdf
+file: /ol-ocw-studio-app/courses/11-953-comparative-land-use-and-transportation-planning-spring-2006/da3e18994b077664eecf072c32d7e30e_assn5.pdf
 file_size: 22893
 file_type: application/pdf
 learning_resource_types:
