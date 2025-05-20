@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource inlcudes information on metropolitan growth forces, centripetal
   and centrifugal, effects of metropolitan growth, and patterns of metropolitan growth.
-file: /ol-ocw-studio-app/courses/11-953-comparative-land-use-and-transportation-planning-spring-2006/70a25e9bc4ce514e993df309344ffcc9_lect2.pdf
+file: /courses/11-953-comparative-land-use-and-transportation-planning-spring-2006/70a25e9bc4ce514e993df309344ffcc9_lect2.pdf
 file_size: 130591
 file_type: application/pdf
 learning_resource_types:
