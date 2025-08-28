@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes information on exploring the land use-transportation
   interaction in your neighborhood.
-file: /courses/11-953-comparative-land-use-and-transportation-planning-spring-2006/017dbf5d586bfd3314f28ed87e8f27ee_intro_assn.pdf
+file: /ol-ocw-studio-app/courses/11-953-comparative-land-use-and-transportation-planning-spring-2006/017dbf5d586bfd3314f28ed87e8f27ee_intro_assn.pdf
 file_size: 8874
 file_type: application/pdf
 learning_resource_types:
