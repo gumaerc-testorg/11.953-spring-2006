@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource includes information on the future of the metropolis:
   theoretical speculations.'
-file: /courses/11-953-comparative-land-use-and-transportation-planning-spring-2006/bbd1bed71259c6d36bdce4bbe4b74d5f_lect24.pdf
+file: /ol-ocw-studio-app/courses/11-953-comparative-land-use-and-transportation-planning-spring-2006/bbd1bed71259c6d36bdce4bbe4b74d5f_lect24.pdf
 file_size: 57838
 file_type: application/pdf
 learning_resource_types:
